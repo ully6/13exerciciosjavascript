@@ -1,0 +1,16 @@
+.btn{
+    padding: 20px;
+    margin: 10x;
+    border-radius: 4px solid;
+}
+
+div{
+    background-color: antiquewhite;
+    margin: 200px;
+    padding: 70px;
+    border-radius: 15px;
+}
+
+body{
+    background-color: azure;
+}

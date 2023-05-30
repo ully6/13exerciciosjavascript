@@ -1,0 +1,18 @@
+.box{
+    margin: 175px;
+    padding: 75px;
+    background-color: darkcyan;
+    border-radius: 15px;
+}
+
+.btn{
+    padding: 25px;
+    margin: 8px;
+    border: black 2px solid;
+    background-color: aquamarine;
+    border-radius: 5px;
+}
+
+h1{
+    font-size: xx-large;
+}
